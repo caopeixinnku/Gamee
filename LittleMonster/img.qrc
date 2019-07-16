@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>pic/stone_one_a.png</file>
+        <file>pic/background.png</file>
+        <file>pic/floor.png</file>
+    </qresource>
+    <qresource prefix="/monster">
+        <file>pic/fan_a.png</file>
+        <file>pic/left_a.png</file>
+        <file>pic/fan_tu_a.png</file>
+        <file>pic/fan_tun_a.png</file>
+        <file>pic/left_tu_a.png</file>
+        <file>pic/left_tun_a.png</file>
+        <file>pic/right_a.png</file>
+        <file>pic/right_tu_a.png</file>
+        <file>pic/right_tun_a.png</file>
+        <file>pic/zheng_a.png</file>
+        <file>pic/zheng_tu_a.png</file>
+        <file>pic/zheng_tun_a.png</file>
+        <file>pic/right_tian_a.png</file>
+        <file>pic/fan_tian_a.png</file>
+        <file>pic/left_tian_a.png</file>
+        <file>pic/zheng_tian_a.png</file>
+        <file>pic/victory.png</file>
+        <file>pic/defeat.png</file>
+        <file>pic/1.png</file>
+        <file>pic/2.png</file>
+        <file>pic/3.png</file>
+        <file>pic/choose_which.png</file>
+        <file>pic/favicon-happymonster.ico</file>
+        <file>pic/gameover_dialog.png</file>
+        <file>pic/goon.png</file>
+        <file>pic/help.png</file>
+        <file>pic/pause.png</file>
+        <file>pic/playerhelp.png</file>
+        <file>pic/replay.png</file>
+        <file>pic/return_back.png</file>
+        <file>pic/start.png</file>
+        <file>pic/start_1.png</file>
+        <file>pic/stop.png</file>
+        <file>pic/thefirstone.png</file>
+        <file>pic/victory_2.png</file>
+    </qresource>
+    <qresource prefix="/mud">
+        <file>pic/mud_zheng_a.png</file>
+        <file>pic/mud_left_a.png</file>
+        <file>pic/mud_right_a.png</file>
+        <file>pic/mud_yun_fan_a.png</file>
+        <file>pic/mud_yun_left_a.png</file>
+        <file>pic/mud_yun_right_a.png</file>
+        <file>pic/mud_yun_zheng_a.png</file>
+        <file>pic/mud_fan_a.png</file>
+    </qresource>
+    <qresource prefix="/food">
+        <file>pic/food.png</file>
+    </qresource>
+</RCC>
